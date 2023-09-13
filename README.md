@@ -4,3 +4,5 @@
 https://nextjs.org/learn/foundations/about-nextjs
 
 ## What is Next JS
+
+## VsCode Fetch Test
